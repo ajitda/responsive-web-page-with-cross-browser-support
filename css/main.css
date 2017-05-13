@@ -178,6 +178,74 @@ height:100%;
     line-height: 26px;
 }
 
+.video-area {
+    background: #1f2881 none repeat scroll 0 0;
+}
+.video_area_text {
+    color: #8fb2cb;
+    padding: 160px 50px 0;
+}
+.video_area_text > h3 {
+    font-size: 30px;
+    padding-bottom: 60px;
+}
+.video_area_text > p {
+    font-size: 13px;
+    padding-bottom: 25px;
+}
+
+.col-md-8.no-right-margin {
+    padding-right: 0;
+}
+.single-item {
+    box-sizing: border-box;
+/*    float: left;
+    width: 20%;
+*/}
+.carousels {
+}
+.single-item > img {
+    padding: 5px;
+    width: 100%;
+}
+
+/*----------service area style-----------*/
+
+.service-area {
+  background: rgba(0, 0, 0, 0) url("../img/service_back.png");
+    background-repeat: no-repeat;
+    background-position: right -139px;
+  padding: 135px 0;
+}
+.single-service {
+    background: #fff none repeat scroll 0 0;
+    box-shadow: 0 0 30px #eeeeee;
+    margin-bottom: 30px;
+    padding: 40px 30px;
+}
+.call-to-action-area {
+  background: #2a3387 none repeat scroll 0 0;
+  padding: 100px 0;
+  text-align: center;
+  color: #fff;
+}
+
+.call-to-action > img {
+    padding: 50px 0;
+}
+.call-to-action-btn {
+    border: 1px solid #fff;
+    border-radius: 40px;
+    color: #fff;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 25px;
+    padding: 15px 30px;
+}
+.call-to-action-btn i {
+    margin-right: 20px;
+}
+
 
 
 
